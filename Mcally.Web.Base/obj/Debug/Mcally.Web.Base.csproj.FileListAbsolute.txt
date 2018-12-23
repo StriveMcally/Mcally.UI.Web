@@ -1,0 +1,17 @@
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\Mcally.Web.Base.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\Mcally.Web.Base.pdb
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\Newtonsoft.Json.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\System.Net.Http.Formatting.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\System.Web.Http.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\System.Web.Http.WebHost.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\Newtonsoft.Json.xml
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\System.Net.Http.Formatting.xml
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\System.Web.Http.xml
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\System.Web.Http.WebHost.xml
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\obj\Debug\Mcally.Web.Base.csprojAssemblyReference.cache
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\obj\Debug\Mcally.Web.Base.csproj.CoreCompileInputs.cache
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\obj\Debug\Mcally.Web.Base.csproj.CopyComplete
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\obj\Debug\Mcally.Web.Base.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Base\obj\Debug\Mcally.Web.Base.pdb
