@@ -20,6 +20,7 @@ namespace Mcally.Web.Base
 
         public ContentNegotiationResult Negotiate(Type type, HttpRequestMessage request, IEnumerable<MediaTypeFormatter> formatters)
         {
+
             var result = new ContentNegotiationResult(_jsonFormatter, new MediaTypeHeaderValue("application/json"));
             return result;
         }

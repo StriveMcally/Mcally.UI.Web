@@ -19,6 +19,12 @@ namespace Mcally.Web.Controller
             return "Sucess";
         }
 
+        public object Hello() {
+
+            return "Hello Word";
+        }
+
+
         
     }
 }

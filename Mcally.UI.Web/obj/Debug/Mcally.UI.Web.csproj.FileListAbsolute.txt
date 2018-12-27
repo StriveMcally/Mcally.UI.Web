@@ -93,8 +93,8 @@ E:\vswork\Mcally.UI.Web\Mcally.UI.Web\bin\zh-Hans\System.Web.Razor.resources.dll
 E:\vswork\Mcally.UI.Web\Mcally.UI.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\vswork\Mcally.UI.Web\Mcally.UI.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\vswork\Mcally.UI.Web\Mcally.UI.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\vswork\Mcally.UI.Web\Mcally.UI.Web\obj\Debug\Mcally.UI.Web.csprojAssemblyReference.cache
 E:\vswork\Mcally.UI.Web\Mcally.UI.Web\obj\Debug\Mcally.UI.Web.csproj.CoreCompileInputs.cache
 E:\vswork\Mcally.UI.Web\Mcally.UI.Web\obj\Debug\Mcally.UI.Web.csproj.CopyComplete
 E:\vswork\Mcally.UI.Web\Mcally.UI.Web\obj\Debug\Mcally.UI.Web.dll
 E:\vswork\Mcally.UI.Web\Mcally.UI.Web\obj\Debug\Mcally.UI.Web.pdb
+E:\vswork\Mcally.UI.Web\Mcally.UI.Web\obj\Debug\Mcally.UI.Web.csprojAssemblyReference.cache

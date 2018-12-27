@@ -11,7 +11,6 @@ E:\vswork\Mcally.UI.Web\Mcally.Web.Model\bin\Debug\System.Web.Http.xml
 E:\vswork\Mcally.UI.Web\Mcally.Web.Model\bin\Debug\System.Web.Http.Cors.xml
 E:\vswork\Mcally.UI.Web\Mcally.Web.Model\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Model\bin\Debug\zh-Hans\System.Web.Http.resources.dll
-E:\vswork\Mcally.UI.Web\Mcally.Web.Model\obj\Debug\Mcally.Web.Model.csprojAssemblyReference.cache
 E:\vswork\Mcally.UI.Web\Mcally.Web.Model\obj\Debug\Mcally.Web.Model.csproj.CoreCompileInputs.cache
 E:\vswork\Mcally.UI.Web\Mcally.Web.Model\obj\Debug\Mcally.Web.Model.csproj.CopyComplete
 E:\vswork\Mcally.UI.Web\Mcally.Web.Model\obj\Debug\Mcally.Web.Model.dll

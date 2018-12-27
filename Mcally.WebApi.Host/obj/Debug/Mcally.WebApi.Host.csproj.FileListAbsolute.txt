@@ -1,9 +1,3 @@
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.IO.Compression.dll
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\VBCSCompiler.exe
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.WebApi.Host.dll.config
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.WebApi.Host.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.WebApi.Host.pdb
@@ -14,9 +8,13 @@ E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\csi.exe
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\csi.exe.config
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\csi.rsp
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.VisualBasic.Core.targets
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -26,6 +24,7 @@ E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.Console.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.Diagnostics.Process.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.IO.Compression.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.IO.FileSystem.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -48,7 +47,9 @@ E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\System.Xml.XPath.XDocument
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\vbc.exe
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\vbc.exe.config
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\vbc.rsp
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\VBCSCompiler.exe
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\roslyn\VBCSCompiler.exe.config
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Base.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Controller.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Model.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.ModeService.dll
@@ -60,6 +61,7 @@ E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\System.Web.Cors.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\System.Web.Http.Cors.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\System.Web.Http.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\System.Web.Http.WebHost.dll
+E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Base.pdb
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Controller.pdb
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Controller.dll.config
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Model.pdb
@@ -81,5 +83,3 @@ E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\obj\Debug\Mcally.WebApi.Host.csproj.C
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\obj\Debug\Mcally.WebApi.Host.csproj.CopyComplete
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\obj\Debug\Mcally.WebApi.Host.dll
 E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\obj\Debug\Mcally.WebApi.Host.pdb
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Base.dll
-E:\vswork\Mcally.UI.Web\Mcally.WebApi.Host\bin\Mcally.Web.Base.pdb

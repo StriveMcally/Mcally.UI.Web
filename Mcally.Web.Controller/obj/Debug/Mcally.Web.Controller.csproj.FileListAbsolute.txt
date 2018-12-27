@@ -1,6 +1,7 @@
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Controller.dll.config
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Controller.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Controller.pdb
+E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Base.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Model.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.ModeService.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Service.dll
@@ -10,6 +11,7 @@ E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\System.Web.Cors.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\System.Web.Http.Cors.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\System.Web.Http.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\System.Web.Http.WebHost.dll
+E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Base.pdb
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Model.pdb
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.ModeService.pdb
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.ModeService.dll.config
@@ -28,5 +30,3 @@ E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\obj\Debug\Mcally.Web.Controller.cs
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\obj\Debug\Mcally.Web.Controller.csproj.CopyComplete
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\obj\Debug\Mcally.Web.Controller.dll
 E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\obj\Debug\Mcally.Web.Controller.pdb
-E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Base.dll
-E:\vswork\Mcally.UI.Web\Mcally.Web.Controller\bin\Debug\Mcally.Web.Base.pdb
